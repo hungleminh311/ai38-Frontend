@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally.",
+        "title": "Your Journey, Our Wheels: Premium Car Rentals"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Your Journey, Our Wheels: Premium Car Rentals",
+  "subtitle": "Drive with confidence and style. Experience the freedom of renting a car that meets all your needs, professionally."
+}
